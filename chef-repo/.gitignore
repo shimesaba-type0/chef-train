@@ -1,0 +1,2 @@
+log/capistrano.log
+nodes/*.json
